@@ -1,0 +1,8 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Kronometre/Kronometre/bin
+/Kronometre/Kronometre/obj
+/Kronometre/.vs
+/Kronometre/.vs/Kronometre
