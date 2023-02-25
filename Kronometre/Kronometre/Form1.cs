@@ -1,8 +1,15 @@
+using System;
+
 namespace Kronometre
 {
     public partial class Form1 : Form
     {
-        public int sayac = 0;
+        //public int sayac = 0;
+
+        public int saat = 0;
+        public int dakika = 0;
+        public int saniye = 0;
+        public int salise = 0;
 
         public Form1()
         {
@@ -21,20 +28,51 @@ namespace Kronometre
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            sayactext.Text = "0";
-            zamansayaci.Interval = 100; //miisaniyeyi 100'er artýracak.
+            saniyetext.Text = "0";
+            zamansayaci.Interval = 10; //miisaniyeyi 10'ar artýracak.
         }
 
         private void zamansayaci_Tick(object sender, EventArgs e)
         {
-            sayac++;
-            sayactext.Text = sayac.ToString();
+            //sayac++;
+            salise++;
 
+            if(salise == 60)
+            {
+                salise = 0;
+                saniye++;
+            }
+            if(saniye == 60)
+            {
+                saniye = 0;
+                dakika++;
+
+            }
+            if (dakika == 60)
+            {
+                dakika = 0;
+                saat++;
+            }
+
+            salisetext.Text = salise.ToString();
+            saniyetext.Text = saniye.ToString();
+            dakikatext.Text = dakika.ToString();
+            saattext.Text = saat.ToString();
+
+            sdsekran.Text = sdsekran.ToString();
+            sdsekran.Text = String.Format("Time: {0}h {1}m {2}s {3}ms", saat, dakika, saniye, salise);
         }
 
         private void reset_Click(object sender, EventArgs e)
         {
-            sayac = 0;
+            salise = 0;
+            saniye = 0;
+            dakika = 0;
+            saat = 0;
+            salisetext.Text = "0";
+            saniyetext.Text = "0";
+            dakikatext.Text = "0";
+            saattext.Text = "0";
         }
 
     }
