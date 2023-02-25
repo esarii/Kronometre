@@ -1,0 +1,17 @@
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.exe
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.deps.json
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.runtimeconfig.json
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.dll
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.pdb
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.csproj.AssemblyReference.cache
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.Form1.resources
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.csproj.GenerateResource.cache
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.AssemblyInfoInputs.cache
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.AssemblyInfo.cs
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.csproj.CoreCompileInputs.cache
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.dll
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\refint\Kronometre.dll
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.pdb
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.genruntimeconfig.cache
+C:\GitProjelerim\Kronometre\Kronometre\Kronometre\Kronometre\obj\Debug\net6.0-windows\ref\Kronometre.dll
