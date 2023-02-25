@@ -1,1 +1,3 @@
 # Kronometre
+
+Kronometre örneğidir. 
